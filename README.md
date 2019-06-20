@@ -2,5 +2,5 @@
 Place this module to your android project
 <br>build.gradle.kts:
 ``` kotlin
-implementation("androidx.appcompat:appcompat:${**Versions.appcompat**}")
+implementation("androidx.appcompat:appcompat:${Versions.appcompat}")
 ```
