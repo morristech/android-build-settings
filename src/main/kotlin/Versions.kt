@@ -53,16 +53,18 @@ object Versions {
     const val processPhoenix = "2.0.0"
 
     object Test {
-        const val assertj = "3.10.0"
         const val espresso = "3.2.0"
         const val json = "20140107"
         const val junit = "4.13-beta-3"
+        const val junitJupiter = "5.3.1"
         const val kluent = "1.50"
+        const val koin = "2.0.1"
         const val mockito = "1.5.0"
         const val mockitoInline = "2.28.2"
         const val robolectric = "4.3"
         const val room = "2.1.0"
         const val runner = "1.2.0"
+        const val assertj = "3.10.0"
     }
 }
 
