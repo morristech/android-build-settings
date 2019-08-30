@@ -1,9 +1,10 @@
 object Versions {
 
     const val sdkCompile = 28
-    const val sdkMin = 16
+    const val sdkMin = 21
     const val sdkTarget = 28
 
+    const val autovalue = "1.0.0"
     const val ahbottomnavigation = "2.3.4"
     const val androidSvg = "1.2.1"
     const val androidx_runner = "1.1.0"
@@ -48,21 +49,23 @@ object Versions {
     const val support = "1.1.0-alpha03"
     const val thirtyinch = "0.9.0"
     const val timber = "4.7.1"
+    const val transitions = "1.1.0"
     const val vectordrawable = "1.1.0-alpha01"
     const val kotlin = "1.3.21"
     const val processPhoenix = "2.0.0"
 
     object Test {
-        const val assertj = "3.10.0"
         const val espresso = "3.2.0"
         const val json = "20140107"
         const val junit = "4.13-beta-3"
+        const val junitJupiter = "5.3.1"
         const val kluent = "1.50"
+        const val koin = "2.0.1"
         const val mockito = "1.5.0"
         const val mockitoInline = "2.28.2"
         const val robolectric = "4.3"
         const val room = "2.1.0"
         const val runner = "1.2.0"
+        const val assertj = "3.10.0"
     }
 }
-
