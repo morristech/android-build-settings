@@ -53,6 +53,7 @@ object Versions {
     const val vectordrawable = "1.1.0-alpha01"
     const val kotlin = "1.3.21"
     const val processPhoenix = "2.0.0"
+    const val trafiAnchorBottomSheetBehaviour = "0.13-alpha"
 
     object Test {
         const val espresso = "3.2.0"
