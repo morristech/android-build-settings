@@ -25,7 +25,7 @@ object Versions {
     const val gson = "2.8.5"
     const val jsoup = "1.11.3"
     const val koin = "2.0.1"
-    const val ktlint = "0.30.0"
+    const val ktlint = "0.31.0"
     const val ktx = "1.0.1"
     const val lifecycle = "2.0.0"
     const val lightsaber = "0.9.0-beta"
