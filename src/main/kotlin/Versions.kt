@@ -13,7 +13,7 @@ object Versions {
     const val bottomnavigation = "3.0.0"
     const val cardview = "1.0.0"
     const val cicerone = "5.0.0"
-    const val constraint = "2.0.0-beta1"
+    const val constraint = "2.0.0-beta2"
     const val coreKtx = "1.0.2"
     const val coroutines = "1.1.0"
     const val exoplayer = "2.10.1"
