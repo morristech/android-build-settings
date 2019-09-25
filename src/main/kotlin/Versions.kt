@@ -6,6 +6,7 @@ object Versions {
     const val sdkMin = 21
     const val sdkTarget = 28
 
+    const val adapterdelegates = "4.2.0"
     const val autovalue = "1.0.0"
     const val ahbottomnavigation = "2.3.4"
     const val androidSvg = "1.2.1"
